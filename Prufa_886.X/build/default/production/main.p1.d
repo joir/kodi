@@ -1,0 +1,5 @@
+build/default/production/main.p1:\
+ /usr/hitech/picc/9.80a/include/eeprom_routines.h\
+ /usr/hitech/picc/9.80a/include/htc.h\
+ /usr/hitech/picc/9.80a/include/pic.h\
+ /usr/hitech/picc/9.80a/include/pic16f887.h\
